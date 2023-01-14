@@ -40,6 +40,21 @@ nav li{
     padding: 15px 30px;
 
 }
+.button-3rd{
+    
+    width: 160px;
+    height: 64px;
+    background: #FFF8F3;
+    font-weight: 700;
+font-size: 20px;
+color: #FD6E0A;
+border: 1px solid #FD6E0A;
+border-radius: 5px;
+margin-left: 30px;
+
+
+
+}
 
 
 /* Banner style */
