@@ -12,7 +12,8 @@
 /* Header and navigation styles */
 nav{
     display: flex;
-    justify-content: space-between;margin: 51px 200px;
+    justify-content: space-between;
+   padding: 51px 200px;
 }
 
 .nav-title{
