@@ -37,10 +37,9 @@ nav li{
     background-color: #FD6E0A;
     border: 0;
     padding: 15px 30px;
-   /* margin-bottom: 130px ; */
-
 
 }
+
 
 /* Banner style */
 .banner{
@@ -334,6 +333,9 @@ padding-top: 10px;
     padding-left: 100px;
    
 
+}
+.footer-section{
+    padding-bottom: 130px;
 }
 
 
